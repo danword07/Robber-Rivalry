@@ -331,7 +331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b1e831e8ecfa404c9067e7b26625297, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  braincellslost: 200
+  braincellslost: 92
 --- !u!65 &2056259521
 BoxCollider:
   m_ObjectHideFlags: 0
